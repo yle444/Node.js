@@ -1,0 +1,2 @@
+let hello = require("./moduloHello.js"); //assegno ad una variabile  il modulo Hello.js
+hello(); //quando noi andiamo a chiamare hello automaticamente lui esegue la funzione che abbiamo fatto in moduloHello.js quindi stampa Hello world
